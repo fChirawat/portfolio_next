@@ -38,13 +38,13 @@ export default function Home() {
       duration: "June 2024 - October 2024",
       university: "University of Phayao, Phayao Thailand",
       description: " Sell By Long is an online store offering both new and pre-owned shoes of high quality. We provide a wide variety of styles, from sneakers to classic footwear, all carefully inspected for condition. Enjoy easy browsing, fast shipping, and great prices on shoes that suit every occasion.",
-      qrCode: "/img/qrDb.png", 
+      qrCode: "/img/sellbtlong.png", 
     },
     {
       title: "Database : Secondhand fashion shop ",
       duration: "March 2024 - April 2024",
       university: "University of Phayao, Phayao Thailand",
-      description: "Databese",
+      description: "Secondhand Fashion Shop is a store selling lightly used secondhand fashion items at discounted prices. The products are barely used, offering great quality at affordable rates.",
       qrCode: "/img/qrDb.png", 
     }
   ];

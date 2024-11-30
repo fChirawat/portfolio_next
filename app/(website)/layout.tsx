@@ -22,7 +22,7 @@ export default function LayoutWeb({
                     </div>
                     <div className="w-4/5">
                         <h1 className="text-4xl font-bold tracking-wide">
-                            Lorem ipsum dolor sit amet consectetur, adipisicing 
+                        Welcome to the portfolio of Chirawat Pingmueang.
                         </h1>
                         <p className="mt-2 text-lg opacity-90">
                             <div className='flex'>
